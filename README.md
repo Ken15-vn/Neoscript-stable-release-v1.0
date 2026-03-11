@@ -33,6 +33,7 @@ Python 3.11 or higher (Required to run the interpreter).
 For the best development experience, we recommend using the following tools:
 - [Visual Studio Code](https://code.visualstudio.com/) (Lightweight & Powerful)
 - [Visual Studio 2026 Community](https://visualstudio.microsoft.com/) (Full IDE features - Used for this version)
+
 🚀 How to Use (4 Steps)
 
 1. Download: Download the source files and extract them to your project folder.

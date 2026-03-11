@@ -47,3 +47,5 @@ For the best development experience, we recommend using the following tools:
 - ide.ns: Your script file where you write your NeoScript code.
 - run.bat: The quick-launch file for easy execution on your local machine.
 - run_for_others.bat: Standard launch file for sharing with friends.
+
+open source project
